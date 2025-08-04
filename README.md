@@ -2,6 +2,37 @@
 
 Sitio web para GlowSkin, clínica de estética facial desarrollado en Angular, con Server-Side Rendering (SSR) y prerenderizado optimizado para SEO.
 
+## 💡 La Historia Detrás del Proyecto
+
+Como ingenieros y desarrolladores, a veces damos más espacio a los proyectos de empresas que a proyectos propios. 
+
+Me ha gustado poder apoyar a mi esposa en este proyecto, por eso en estas semanas he estado dedicando gran parte de mi tiempo libre en encontrar las mejores maneras de hacerle marketing a su empresa **#GlowSkinBq** con tecnología.
+
+Lo cual ha traído un sinnúmero de nuevos aprendizajes en un lado de la industria que no solemos tocar como el marketing, el SEO, el web scraping, las plataformas de publicidad y CRMs.
+
+### ¿Qué hicimos?
+
+A simple vista es una página web normal.
+
+Pero tiene todo el potencial para ser un proyecto robusto y escalable en el tiempo, **100% con IA**. Todo en base a mi conocimiento de la industria del software.
+
+**Características técnicas destacadas:**
+
+- ⚡ **Desarrollado en Angular 17** con las últimas características del framework
+- 🧩 **Componentes separados** siguiendo el principio de responsabilidad única
+- 🚀 **Server Side Rendering (SSR)** y prerenderizado activado para configuración de SEO a través de AWS Lambda
+- ⚖️ **Funciones híbridas** del lado del cliente y otras del lado del servidor
+- 🔄 **Flujo simple de CI/CD** con branch de producción y pruebas
+- ☁️ **Hospedado en Amazon Amplify** (similar a usar S3 y CloudFront)
+- 🌐 **Dominio personalizado** con Route 53
+- 📦 **Repositorio de Assets separado** para reducir tiempos de compilación y sobrecarga del sitio (muy útil cuando se compila en la nube de AWS)
+- 🔍 **SEO optimizado** con palabras clave para su nicho de negocio
+- 🕷️ **Web Scraping** para obtener reviews de Google (pendiente de probar el API oficial)
+
+**¿Por qué es especial este proyecto?**
+
+Es de **código abierto** y lo pueden utilizar de guía para cualquier proyecto similar que tengan en mente. Combina las mejores prácticas de desarrollo moderno con estrategias de marketing digital, creando una solución integral que va más allá de una simple página web.
+
 ## 🚀 Tecnologías
 
 - **Angular 17** - Framework principal
@@ -248,4 +279,13 @@ dist/glow-skin-angular/
 
 ## 📄 Licencia
 
-Este proyecto es privado para GlowSkin. Todos los derechos reservados.
+Este proyecto es de **código abierto** y puede ser copiado, modificado y reproducido libremente.
+
+**⚠️ Importante:** El nombre "GlowSkin" y la marca "#GlowSkinBq" son de uso privado. Si deseas utilizar este proyecto como base para tu propio negocio, debes:
+
+- ✅ Cambiar el nombre de la empresa/marca
+- ✅ Modificar el contenido específico de GlowSkin
+- ✅ Actualizar las imágenes y assets propios
+- ✅ Cambiar la información de contacto y ubicación
+
+**Siéntete libre de usar este código como plantilla para tu proyecto de estética, spa, clínica o cualquier negocio similar.**
